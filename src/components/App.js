@@ -21,7 +21,7 @@ import daily2 from '../images/daily2b.png';
 import daily3 from '../images/daily3b.png';
 import notebook1 from '../images/notebook1b.png';
 import notebook2 from '../images/notebook2b.png';
-import resume from '../images/LaurenGordon-Fahn_Resume11_17.pdf';
+import resume from '../images/LaurenGordon-Fahn_Resume_06_2020.pdf';
 
 var Element = Scroll.Element;
 
