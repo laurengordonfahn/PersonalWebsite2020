@@ -68,7 +68,7 @@ class App extends Component {
           {"third" : 
             {"Research and Development":
               ["Led research of new CRM tooling and led team education in a new framework (Plone)",
-              "Microservice research: Team’s primary researcher for new projects, stacks, and tools, Closely worked with business to create new products that meet company requirements (documentation, data architecture, and defining data requirements)"]
+              "Microservice research: Team’s primary researcher for new projects, stacks, and tools. Worked closely with business to create new products that meet company requirements (documentation, data architecture, and defining data requirements)"]
             }
           }
         ]
@@ -82,7 +82,7 @@ class App extends Component {
             {"ASP.NET(C#) Full Stack Developer":
               ["Translated a Flash data reporting service to ASP.NET",
               "Created Unit Tests for an API (FluentAssertions, NUnit, Moq)",
-              "Took part in creating administrative UI (JQuery, Javascript, Razor)",
+              "Participated in creating administrative UI (JQuery, Javascript, Razor)",
               "Created comprehensive documentation of reporting service",
               "Led testing education for the team (documentation and presentations)",
               "Represented developers in collaboration with BA team to create stronger documentation of requirements"]
@@ -96,7 +96,7 @@ class App extends Component {
         ],
         [
           {"third" : 
-            {"Research and Development":
+            {"Developer Intern Full-Stack":
               ["Worked on a social-network and administration tool for structured communities, such as parishes (Salesforce, Apex, Javascript)",
               "Organized and wrote documentation to improve team efficiency"]
             }
@@ -164,7 +164,7 @@ class App extends Component {
 
       projects: [
         [
-          {"none": "The following are projects are from 2017 while I was expanding my work with React and Javascript."}
+          {"none": "The following are projects from 2017, while I was expanding my work with React and Javascript."}
         ],
         [ {"first": "Daily"},
           {"img": {
