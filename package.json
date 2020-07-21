@@ -1,0 +1,21 @@
+{
+  "name": "personal_website",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.0",
+    "react-dom": "^15.6.0",
+    "react-onscroll": "^1.0.4",
+    "react-scroll": "^1.5.3",
+    "react-timeout": "^1.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
